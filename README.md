@@ -1,5 +1,5 @@
 # tic-tac-toe
-tic tac toe 15 magic square :) 
+tic tac toe 15 magic square 
 
 You will build a small tic-tac-toe game during this tutorial.
 This tutorial does not assume any existing React knowledge.
